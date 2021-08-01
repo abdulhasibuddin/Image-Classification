@@ -1,0 +1,6 @@
+k1 -> Test Acc: 0.8623, Test Loss: 3.8825, Precision: 0.87, Recall: 0.85, F1-score: 0.85
+k2 -> Test Acc: 0.8446, Test Loss: 3.9632, Precision: 0.84, Recall: 0.83, F1-score: 0.83
+k3 -> Test Acc: 0.8478, Test Loss: 3.9421, Precision: 0.85, Recall: 0.83, F1-score: 0.83
+k4 -> Test Acc: 0.8598, Test Loss: 3.9019, Precision: 0.86, Recall: 0.84, F1-score: 0.84
+k5 -> Test Acc: 0.8521, Test Loss: 3.9410, Precision: 0.86, Recall: 0.83, F1-score: 0.84
+Avg-> Test Acc: 0.8533, Test Loss: 3.9261, Precision: 0.856,Recall: 0.836,F1-score: 0.838
